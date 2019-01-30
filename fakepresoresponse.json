@@ -15,16 +15,35 @@
 		"enableAddToCart": true,
 		"canAddToCart": true,
 		"showPriceAsAvailable": true,
-		"highlightedTitleTerms": [],
+		"highlightedTitleTerms": [
+			"Cheese"
+		],
 		"seeAllName": "Cheese",
 		"seeAllLink": "query=cheese&sort=best_match&soft_sort=true&cat_id=976759_1071964_976788_1001468&spelling=true&prg=mweb",
 		"itemClassId": "1",
-		"ppu": {},
-		"primaryOffer": {},
-		"fulfillment": {},
-		"inventory": {},
+		"ppu": {
+			"unit": "oz",
+			"amount": 6.98,
+			"currencyCode": "USD"
+		},
+		"primaryOffer": {
+			"offerId": "1132148719BB4A4E85E53A10A517C106",
+			"offerPrice": 6.98,
+			"currencyCode": "USD"
+		},
+		"fulfillment": {
+			"isS2H": true,
+			"isS2S": false,
+			"isSOI": false,
+			"isPUT": false
+		},
+		"inventory": {
+			"availableOnline": true
+		},
 		"quantity": 1683,
-		"brand": [],
+		"brand": [
+			"Kraft"
+		],
 		"geoItemClassification": "LOCAL_GEO",
 		"marketPlaceItem": false,
 		"blitzItem": false,
